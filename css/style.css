@@ -1,0 +1,53 @@
+.index-image {
+    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.recipe-link {
+    color: green;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: center;
+}
+
+.strawberrypie-title {
+    color: red;
+}
+
+.strawberrypie-image {
+    height: auto;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.minitarts-title {
+    color: brown;
+}
+
+.minitarts-image {
+    height: auto;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.crepes-title {
+    color: rgb(190, 190, 3);
+}
+
+.crepes-image {
+    height: auto;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
