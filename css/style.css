@@ -1,6 +1,14 @@
-.index-image {
+.index.image {
     height: auto;
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.image {
+    height: auto;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -20,34 +28,10 @@ h1 {
     color: red;
 }
 
-.strawberrypie-image {
-    height: auto;
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
 .minitarts-title {
     color: brown;
 }
 
-.minitarts-image {
-    height: auto;
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
 .crepes-title {
     color: rgb(190, 190, 3);
-}
-
-.crepes-image {
-    height: auto;
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
