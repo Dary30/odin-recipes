@@ -24,6 +24,10 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    font-weight: bold;
+}
+
 .strawberrypie-title {
     color: red;
 }
@@ -34,4 +38,22 @@ h1 {
 
 .crepes-title {
     color: rgb(190, 190, 3);
+}
+
+.description.title {
+    font-weight: bold;
+    color: green;
+}
+
+.ingredients.title {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol li,
+ul li,
+.return,
+.steps.title,
+.description {
+    font-family: Arial, Helvetica, sans-serif;
 }
